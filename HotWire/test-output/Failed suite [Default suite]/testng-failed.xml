@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <test name="Default test(failed)(failed)">
+    <classes>
+      <class name="com.hotewire.qa.testcases.VacationPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyFly"/>
+          <include name="selectdepartingCalender"/>
+          <include name="verifydealbtn"/>
+          <include name="selectreturningCalender"/>
+          <include name="verifyAllButtons"/>
+          <include name="verifyDestination"/>
+        </methods>
+      </class> <!-- com.hotewire.qa.testcases.VacationPageTest -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
